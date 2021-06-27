@@ -1,0 +1,65 @@
+.btn-toolset {
+ display: inline-block;
+ text-align: center;
+ white-space: nowrap;
+ color: #000000;
+ text-decoration: none;
+ line-height: 1.2;
+ font-weight: normal;
+ font-family: sans-serif;
+ font-size: 18px;
+ background-color: #FFFF00;
+ border-radius: 12px;
+ padding: 10px 24px;
+ border: 1px solid #000000;
+ cursor: pointer;
+}
+.btn-toolset:hover {
+ background-color: #FFCC00;
+ border-color: #000000;
+}
+.btn-toolset > strong {
+ font-size: 40px;
+}
+.p-title {
+ font-size: 25px;
+ font-weight: bold;
+ color: #FFFFFF;
+ }
+ .p-form {
+ font-size: 25px;
+ font-weight: bold;
+ color: #FFFFFF;
+ }
+  .p-back {
+ text-align: right;
+ }
+
+.btn-back {
+ display: inline-block;
+ text-align: center;
+ white-space: nowrap;
+ color: #000000;
+ text-decoration: none;
+ line-height: 1.2;
+ font-weight: normal;
+ font-family: sans-serif;
+ font-size: 18px;
+ background-color: #FFFF00;
+ border-radius: 30px;
+ padding: 9px 14px;
+ border: 2px solid #000000;
+ cursor: pointer;
+}
+.btn-back:hover {
+ background-color: #FFCC33;
+ border-color: #000000;
+}
+.btn-back > strong {
+ font-size: 30px;
+}
+.iframe {
+ margin: 0;
+ padding: 0;
+ border: none;
+}
